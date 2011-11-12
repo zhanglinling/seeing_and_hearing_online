@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the seeing and hearing online feature.
+ */
+
+include_once('seeing_and_hearing_online.features.inc');
